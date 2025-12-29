@@ -20,10 +20,10 @@
  - [python]
  - [sql]
 
-### [Lv. 2](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%202)
+### [Lv. 2]
  - [python]
  - [sql]
 
 ### [Lv. 1](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%201)
- - [python]
+ - [python](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%201%20python)
  - [sql]
