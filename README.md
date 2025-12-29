@@ -25,5 +25,5 @@
  - [sql]
 
 ### [Lv. 1](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%201)
- - [python](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%201%20python)
+ - [python](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%201/python)
  - [sql]
