@@ -17,7 +17,13 @@
  - [그래프]
 
 ### [Lv. 3]
+ - [python]
+ - [sql]
 
 ### [Lv. 2](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%202)
+ - [python]
+ - [sql]
 
 ### [Lv. 1](https://github.com/swuhyeon/pgm-python/tree/main/Lv.%201)
+ - [python]
+ - [sql]
